@@ -3,6 +3,16 @@
 
 A fully functional, recursive Tree View component built with **React**, **TypeScript**, and **Tailwind CSS**. This project demonstrates advanced frontend patterns including recursive rendering, complex state management, and asynchronous data simulation.
 
+## 🚀 Live Demo
+
+You can view the live version of the application here:
+
+**[View Live deployed Tree View Component](https://tree-view-component.netlify.app/)**
+
+## 📺 Video Walkthrough
+
+<!-- [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+
 ## 🚀 Features
 
 * **Recursive Hierarchy:** Supports infinite nesting levels using a self-referencing component structure.
