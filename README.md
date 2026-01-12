@@ -11,7 +11,10 @@ You can view the live version of the application here:
 
 ## 📺 Video Walkthrough
 
-<!-- [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+
+https://github.com/user-attachments/assets/312ff0a0-f2ce-4af7-94ac-75ada0251acb
+
+
 
 ## 🚀 Features
 
